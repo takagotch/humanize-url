@@ -1,1 +1,2 @@
 ### humanize-url
+### normalize-url
